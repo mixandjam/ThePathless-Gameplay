@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fcf7219bab7fe46a1ad266029b2fee19, type: 3}
+  m_Name: _Readme
+  m_EditorClassIdentifier: 
+  icon: {fileID: 2800000, guid: b76e5c0e2f2355b4480e14f9a1e31289, type: 3}
+  title: The Pathless Gameplay | Mix and Jam
+  sections:
+  - heading: Controls
+    text: 
+    linkText: 
+    url: 
+  - heading: 
+    text: Move - WASD or Arrow Keys
+    linkText: 
+    url: 
+  - heading: 
+    text: Run - Shift
+    linkText: 
+    url: 
+  - heading: 
+    text: Fire - Mouse Left Button
+    linkText: 
+    url: 
+  - heading: 
+    text: 
+    linkText: 
+    url: 
+  loadedLayout: 1
