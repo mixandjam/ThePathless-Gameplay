@@ -6,7 +6,7 @@
 # The Pathless Basic Gameplay | Mix and Jam
 
 <p align="center">
-<img width="900px" src="http://mixandjam.com/wp-content/uploads/2023/03/path.png">
+<img width="900px" src="https://raw.githubusercontent.com/mixandjam/ThePathless-Gameplay/039fb655dce4219dd3b55ae29210561b896d5a61/git-banner.png">
 </p>
 
 This is the official respository for the episode <b>#31</b> of the [Mix and Jam Youtube Channel](https://www.youtube.com/c/MixAndJam)!
